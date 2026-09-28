@@ -4,3 +4,6 @@
 # that many times. The steps are in README.md.
 #
 # Write your code below this comment.
+number = int(input("How many times?"))
+phrase = input("What should I say?")
+print(number * phrase)
